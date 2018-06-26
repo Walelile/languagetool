@@ -17,3 +17,5 @@ derby.log
 pom.xml.versionsBackup
 pom.xml.asc
 .DS_Store
+
+LanguageTool-4.1-stable/*
